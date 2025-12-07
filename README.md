@@ -40,5 +40,6 @@
 
 ---
 
-### 📈 Estadísticas
+<!-- ### 📈 Estadísticas
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMartinezFM&show_icons=true)
