@@ -27,7 +27,11 @@
 - Impresion 3D
 - Visual Studio Code
 
-👉 Repositorio: https://github.com/LuisMartinezFM/portfolio-data
+- ### 🔗 Conecta conmigo
+- LinkedIn: www.linkedin.com/in/luis-fernando-mtz-mdza-11fm98
+
+
+<!--👉 Repositorio: https://github.com/LuisMartinezFM/portfolio-data
 
 ---
 
