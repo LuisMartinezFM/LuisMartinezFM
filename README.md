@@ -2,14 +2,13 @@
   <img src="./banner.svg" width="100%"/>
 </p>
 
-<h1 align="center">Hola, soy Luis 👋</h1>
-<h3 align="center">Analista de Datos | Ingeniero Electrónico</h3>
+<h3 align="center">Luis Fernando Martinez Mendoza</h3>
 
 ---
 
 ### 🚀 Sobre mí
-- Ingeniero Electrico Electrónico 
-- Con gusto adquirido por el Analisis de datos nfocado en **SQL, Power BI y Python**
+- Ingeniero Electrico Electrónico egresado de la FES Argon, UNAM.
+- Con gusto adquirido por el Analisis de datos enfocado en **SQL, Power BI y Python**
 - Apasionado por el análisis, visualización y automatización
 
 ---
@@ -22,19 +21,12 @@
 - Power point
 - Arduino
 - IoT
-- Fusion 360
+- Autodesk Fusion
 - Tinkercad
 - Orca Slicer
 - Impresion 3D
 - Visual Studio Code
 
----
-
-### 📊 Proyectos Destacados
-🔹 **Análisis de Ligas Europeas**
-- Ranking de equipos por liga
-- Promedios de rendimiento
-- Dashboard en Power BI  
 👉 Repositorio: https://github.com/LuisMartinezFM/portfolio-data
 
 ---
