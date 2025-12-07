@@ -27,7 +27,7 @@
 - Impresion 3D
 - Visual Studio Code
 
-  ### 🔗 Conecta conmigo
+### 🔗 Conecta conmigo
 - LinkedIn: www.linkedin.com/in/luis-fernando-mtz-mdza-11fm98
 
 
